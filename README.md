@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Prasanna!
+
+📚 I'm currently a second year Computer Science student at the University of Waterloo, seeking a Summer 2023 internship!
 
 <!--
 **tnsprasanna/tnsprasanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
