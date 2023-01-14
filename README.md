@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Prasanna!
+### Hi, I'm Prasanna! 👋
 
 📚 I'm currently a second year Computer Science student at the University of Waterloo, seeking a Summer 2023 internship!
 
