@@ -1,8 +1,8 @@
 ### Hi, I'm Prasanna! 👋
 
-📚 I'm currently a second year Computer Science student at the University of Waterloo!
-👩🏾‍💻 I'm an incoming Software Developer Intern at The Home Depot this summer
-📫 I'd love to connect on LinkedIn or via email at pthallap@uwaterloo.ca
+- 📚 I'm currently a second year Computer Science student at the University of Waterloo!
+- 👩🏾‍💻 I'm an incoming Software Developer Intern at The Home Depot this summer
+- 📫 I'd love to connect on LinkedIn or via email at pthallap@uwaterloo.ca
 <!--**tnsprasanna/tnsprasanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
