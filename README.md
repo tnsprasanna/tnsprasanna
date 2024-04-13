@@ -1,7 +1,7 @@
 ### Hi, I'm Prasanna! 👋
 
 - 📚 I'm a Computer Science student at the University of Waterloo!
-- 👩🏾‍💻 I'm an incoming Engineering Intern at CPP Investments this winter, previously a Software Developer Intern at The Home Depot Canada
+- 👩🏾‍💻 I've previously interned as a Software Engineering Intern at CPP Investments and as a Software Developer Intern at The Home Depot Canada
 - 📫 I'd love to connect on LinkedIn or via email at pthallap@uwaterloo.ca
 <!--**tnsprasanna/tnsprasanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
